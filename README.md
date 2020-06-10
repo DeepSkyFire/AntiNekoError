@@ -9,6 +9,7 @@ Mitigates KanColle NekoError due to network errors
 3. `python3 server.py` on server and `python3 client.py` on client. (Or you can use `screen` to stay in the background on server.)
 4. I recommend you use the `Poi browser` to play the KanColle.
 
-# Attention! If you live in mainland China, Please use Client proxy of other proxy soft and setting obfs plugin.
+*Attention! If you live in mainland China, Please use Client proxy of other proxy soft and setting obfs plugin.*
 
+# It's an outdated and deprecated solution, so I'm making it public. I do not continue to maintain this project.
 
